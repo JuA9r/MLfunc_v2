@@ -16,6 +16,7 @@
 - [Code Structure](#code-structure)
 - [Completed](#completed)
 - [Pending](#pending)
+- [Dependencies](#dependencies)
 - [Licence](#licence)
 
 ## **Overview**
