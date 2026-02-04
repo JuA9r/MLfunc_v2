@@ -63,7 +63,7 @@ def main():
         x_t = oscillator.calculate_function(t)
 
         label_str = r'$\alpha=%.1f$' % a
-        if a == 1.0: label_str += ' (Standard HO)'
+        if a == 1.0: label_str += '(Standard HO)'
         plt.plot(t, x_t, label=label_str)
 
     plt.title('Case 1: $x(0)=1, y(0)=0$')
