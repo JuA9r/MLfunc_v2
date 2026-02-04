@@ -14,8 +14,7 @@
 
 - [Overview](#overview)
 - [Code Structure](#code-structure)
-- [Completed](#completed)
-- [Pending](#pending)
+- [ToDo-List](#todo-list)
 - [Dependencies](#dependencies)
 - [Licence](#licence)
 
@@ -30,7 +29,7 @@
    - Use `matplotlib` to create a graph.
 
 
-## **ToDo**
+## **ToDo-List**
 ### **Completed**
 - [x] Create the graph.
 - [x] Save the graph as an image.
