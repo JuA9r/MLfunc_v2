@@ -11,3 +11,6 @@
 ---
 
 ## **Overview**
+The research is motivated by wave propagation in complex, non-uniform environments, such as the seismically active crust of the Tokara Islands.
+**Non-locality and Memory Effects**: Fractional derivatives incorporate historical dependency and non-local interactions, allowing for the accurate description of frequency-dependent attenuation and dispersion in disordered media.
+**Anomalous Diffusion**: This model accounts for "Lévy flights," where particles occasionally undergo very large displacements, leading to super-diffusive behavior.
