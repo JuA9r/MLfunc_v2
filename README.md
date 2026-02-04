@@ -10,6 +10,14 @@
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Code Structure](#code-structure)
+- [Cmpleted](#comleted)
+- [Pending](#pending)
+- [Licence](#licence)
+
 ## **Overview**
 - This project is a **Graphs of Special Functions** using the `matplotlib` library in Python.
 - These special functions are the Mittag-Leffler function and Fox's H-function.
@@ -29,6 +37,19 @@
 
 ### **Pending**
 - [ ] Graph generation at any value.
+
+
+## Dependencies
+- Python 3.x
+- Scipy
+- NumPy
+- Mpmath
+- Matplotlib
+
+Install dependencies with:
+```bash
+pip install matplotlib numpy scipy mpmath
+```
 
 
 ## **Licence**
