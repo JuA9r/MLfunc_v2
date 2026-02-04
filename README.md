@@ -27,7 +27,7 @@
 ## **Code Structure**
 ### **Main Functionalities**
 1. **Graph Creation**  
-   - Use `matplotlib` to create a graph with a formula and a text input box to display the result.
+   - Use `matplotlib` to create a graph.
 
 
 ## **ToDo**
