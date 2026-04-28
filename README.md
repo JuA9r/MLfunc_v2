@@ -20,7 +20,7 @@
 
 ## **Overview**
 - This project is a **Graphs of Special Functions** using the `matplotlib` library in Python.
-- These special functions are the Mittag-Leffler function and Fox's H-function.
+- Generating graphs of special functions are the Mittag-Leffler function and Fox's H-function.
 
 
 ## **Code Structure**
@@ -33,7 +33,8 @@
 ### **Completed**
 - [x] Create the graph.
 - [x] Save the graph as an image.
-- [x] Display lines for multiple graphs
+- [x] Display lines for multiple graphs.
+- [x] Comparision using multiple values. 
 
 ### **Pending**
 - [ ] Graph generation at any value.
@@ -53,7 +54,7 @@ pip install matplotlib numpy scipy mpmath
 
 
 ## **Licence**
-- This project is licensed under the MIT License. See the `LICENSE` file for details.
+- This project is licensed under the MIT License. See the `LICENCE` file for details.
 
 
 ---
