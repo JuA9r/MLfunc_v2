@@ -38,6 +38,7 @@
 
 ### **Pending**
 - [ ] Graph generation at any value.
+- [ ] Refactoring
 
 
 ## Dependencies
