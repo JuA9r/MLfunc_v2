@@ -2,11 +2,11 @@
 
 
 ## **Execution Environment**
-- **Python**: 3.14  
-- **matplotlib**: 3.10.8
+- **Python**: 3.14.6 
+- **matplotlib**: 3.11.0
 - **mpmath**: 1.3.0
-- **numpy**: 2.4.1
-- **scipy**: 1.17.0
+- **numpy**: 2.4.6
+- **scipy**: 1.18.0
 
 ---
 
@@ -35,9 +35,9 @@
 - [x] Save the graph as an image.
 - [x] Display lines for multiple graphs.
 - [x] Comparision using multiple values. 
+- [x] Graph generation at any value.
 
 ### **Pending**
-- [ ] Graph generation at any value.
 - [ ] Refactoring
 
 
