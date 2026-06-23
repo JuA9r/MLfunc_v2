@@ -1,3 +1,15 @@
+"""
+    Mittag-Leffler function. ver 1.20
+    E_{alpha, beta}(z) = sum_{k=0}^{inf}z^k / Gamma(alpha*k+beta)
+
+    Graph Generation program.
+    Last update date  :  2026/06/23
+
+    We plan to release updates leading up to the final version.
+
+    Permission granted to freely rewrite this program.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import gamma
@@ -54,19 +66,19 @@ class FractionalHarmonicOscillator:
 
 def main():
     alphas = []
-    print("4つの1以上2未満の少数値を入力してください: ")
+    print("4つの1以上2未満の小数値を入力してください: ")
     for i in range(4):
         while True:
             try:
                 num = float(input(f"input No.{i+1}: "))
                 if num < 0:
-                    print("1以上の少数値を入力してください")
+                    print("1以上の小数値を入力してください")
                     continue
                 alphas.append(num)
                 break
 
             except ValueError:
-                print("有効な浮動少数を入力してください")
+                print("有効な浮動小数を入力してください")
 
     plt.rcParams['mathtext.fontset'] = 'cm'
     t = np.linspace(0, 8, 100)
