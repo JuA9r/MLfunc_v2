@@ -4,7 +4,6 @@
 ## **Execution Environment**
 - **Python**: 3.14.6 
 - **matplotlib**: 3.11.0
-- **mpmath**: 1.3.0
 - **numpy**: 2.4.6
 - **scipy**: 1.18.0
 
@@ -47,12 +46,11 @@
 - Python 3.x
 - Scipy
 - NumPy
-- Mpmath
 - Matplotlib
 
 Install dependencies with:
 ```bash
-pip install matplotlib numpy scipy mpmath
+pip install matplotlib numpy scipy
 ```
 
 
