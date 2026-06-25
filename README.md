@@ -20,7 +20,7 @@
 ## **Overview**
 - This project is a **Graphs of Special Functions** using the `matplotlib` library in Python.
 - Generating graphs of special functions are the Mittag-Leffler function and Fox's H-function.
-
+- You can generate a graph by entering four arbitrary decimal values. (1 <= x < 2)
 
 ## **Code Structure**
 ### **Main Functionalities**
