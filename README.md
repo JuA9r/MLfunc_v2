@@ -26,6 +26,7 @@
 ### **Main Functionalities**
 1. **Graph Creation**  
    - Use `matplotlib` to create a graph.
+### **calculate_function**
 2. **Function Calculation**
    - Perform calculations using libraries `numpy` and `scipy`.
 
