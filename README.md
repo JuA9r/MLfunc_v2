@@ -51,6 +51,9 @@ Install dependencies with:
 pip install matplotlib numpy scipy
 ```
 
+## Postscript
+- If you have any bug reports or feature requests, please post them in the issues.
+
 
 ## **Licence**
 - This project is licensed under the MIT License. See the `LICENCE` file for details.
