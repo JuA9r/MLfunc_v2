@@ -28,6 +28,10 @@
 1. **Graph Creation**  
    - Use `matplotlib` to create a graph.
 
+2. Image Export
+   - Automatic saving function for generated
+     graphs
+
 
 ## **ToDo-List**
 ### **Completed**
