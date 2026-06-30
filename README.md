@@ -16,6 +16,7 @@
 - [ToDo-List](#todo-list)
 - [Dependencies](#dependencies)
 - [Licence](#licence)
+- [Postscript](#postscript)
 
 ## **Overview**
 - This project is a **Graphs of Special Functions** using the `matplotlib` library in Python.
