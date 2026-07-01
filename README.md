@@ -45,7 +45,7 @@
 - [ ] Refactoring
 
 ## **Parameters**
-- Four floating-point numbers entered when generating the graph ( $ 1 \le \alpha < 2$)
+- Four floating-point numbers entered when generating the graph ( 1 <= α < 2 )
 - The four values ​​are parameters applied to the respective Mittag-Leffler functions.
 - The same applies to Fox's H-function.
 
