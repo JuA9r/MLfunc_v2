@@ -43,6 +43,7 @@
 
 ### **Pending**
 - [ ] Refactoring
+- [ ] Speeding up processing
 
 ## **Parameters**
 - Four floating-point numbers entered when generating the graph ( 1 <= α < 2 )
